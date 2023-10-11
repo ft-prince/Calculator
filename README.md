@@ -1,97 +1,70 @@
-# React Calculator
+# Getting Started with Create React App
 
-This is a simple calculator web application built using React. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. The calculator provides a user-friendly interface with buttons for numeric input and operators, as well as a display area for showing the current calculation.
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Features
+## Available Scripts
 
-- Addition
-- Subtraction
-- Multiplication
-- Division
-- Clear (AC)
-- Delete (DEL)
-- Responsive design
+In the project directory, you can run:
 
-## Getting Started
+### `npm start`
 
-These instructions will help you set up and run the React Calculator project on your local machine.
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-### Prerequisites
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-Make sure you have Node.js and npm (Node Package Manager) installed on your computer.
+### `npm test`
 
-### Installation
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-1. Clone the repository to your local machine:
+### `npm run build`
 
-   ```bash
-   git clone https://github.com/your-username/react-calculator.git
-   ```
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
-2. Change to the project directory:
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
-   ```bash
-   cd react-calculator
-   ```
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-3. Install the project dependencies:
+### `npm run eject`
 
-   ```bash
-   npm install
-   ```
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-### Running the Application
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-To run the React Calculator on your local machine, use the following command:
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-```bash
-npm start
-```
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-This command will start the development server and open the application in your default web browser. You can access it at `http://localhost:3000`.
+## Learn More
 
-### Building for Production
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-If you want to build the project for production, use the following command:
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-```bash
-npm run build
-```
+### Code Splitting
 
-This will create an optimized build of the application in the `build` folder, which can be deployed to a web server.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-## Usage
+### Analyzing the Bundle Size
 
-1. Launch the React Calculator using the steps described in the "Running the Application" section.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-2. Use the calculator to perform basic arithmetic operations:
-   - Click the numeric buttons to input numbers.
-   - Click the operator buttons (+, -, *, /) to perform calculations.
-   - Click the "AC" button to clear the calculation.
-   - Click the "DEL" button to delete the last input or operator.
+### Making a Progressive Web App
 
-3. The current calculation is displayed at the top, and the result is displayed at the bottom.
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-4. Enjoy using the calculator!
+### Advanced Configuration
 
-## Technologies Used
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-- React: A JavaScript library for building user interfaces.
-- CSS: Used for styling the application.
-- Create React App: A development tool to set up and maintain a React application.
+### Deployment
 
-## Contributing
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-If you would like to contribute to this project, please follow these steps:
+### `npm run build` fails to minify
 
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix: `git checkout -b feature-name`.
-3. Make your changes and commit them with descriptive messages.
-4. Push your changes to your fork: `git push origin feature-name`.
-5. Open a pull request to the main repository.
-
-
-
-Thank you for using the React Calculator!
-
-**Happy calculating!**# Calculator
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
