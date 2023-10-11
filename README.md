@@ -90,22 +90,7 @@ If you would like to contribute to this project, please follow these steps:
 4. Push your changes to your fork: `git push origin feature-name`.
 5. Open a pull request to the main repository.
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
-
-## Acknowledgments
-
-- Special thanks to the React community for providing excellent resources and documentation.
-- Inspiration for this project comes from various online tutorials and examples.
-
-## Contact
-
-If you have any questions or need further assistance, feel free to contact the project maintainer:
-
-- Your Name
-- Email: your.email@example.com
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
 
 Thank you for using the React Calculator!
 
